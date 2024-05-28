@@ -1,2 +1,2 @@
-listar apenas 1 carro
-inserir carros
+alterar carros
+excluir carros
