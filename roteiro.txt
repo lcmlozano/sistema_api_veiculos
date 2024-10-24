@@ -1,2 +1,0 @@
-alterar carros
-excluir carros
